@@ -19,7 +19,8 @@ This is a simple Express.js and MongoDB RESTful API for managing items. It provi
 - Start the server:
 - - node index.js
 - The API will be available at http://localhost:8000/api.
-
+- Use `Postman`, a popular API development and testing tool, to interact with the endpoints of this API.
+  
 ## API Documentation
 
 ### Authentication
