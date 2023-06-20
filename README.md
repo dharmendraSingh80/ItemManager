@@ -24,8 +24,8 @@ This is a simple Express.js and MongoDB RESTful API for managing items. It provi
 
 ### Authentication
 
-- "POST /api/auth/signup" - Create a new user account. Requires a JSON body with "username" and "password" fields.
-- "POST /api/auth/login" - Log in with an existing user account. Requires a JSON body with "username" and "password" fields. Returns a JWT token for authentication.
+- `POST /api/auth/signup` - Create a new user account. Requires a JSON body with "username" and "password" fields.
+- `POST /api/auth/login` - Log in with an existing user account. Requires a JSON body with "username" and "password" fields. Returns a JWT token for authentication.
 
 ### Item Endpoints
 
