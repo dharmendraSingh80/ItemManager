@@ -19,7 +19,7 @@ This is a simple Express.js and MongoDB RESTful API for managing items. It provi
 - Start the server:
 - - node index.js
 - The API will be available at http://localhost:8000/api.
-- Use `Postman`, a popular API development and testing tool, to interact with the endpoints of this API.
+- Use `Postman`, a popular AI development and testing tool, to interact with the endpoints of this API.
   
 ## API Documentation
 
@@ -44,3 +44,4 @@ This is a simple Express.js and MongoDB RESTful API for managing items. It provi
 - MongoDB - NoSQL database
 - Passport - Authentication middleware for Node.js
 - JWT - JSON Web Token implementation for Node.js
+- Postman - A popular AI development and testing tool, to interact with the endpoints of this API
